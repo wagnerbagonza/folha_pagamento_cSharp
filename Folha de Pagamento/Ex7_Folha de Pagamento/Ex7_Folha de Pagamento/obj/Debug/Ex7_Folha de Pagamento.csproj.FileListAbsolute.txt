@@ -1,0 +1,9 @@
+C:\Users\douglas.vferreira\Documents\Visual Studio 2012\Projects\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\bin\Debug\Ex7_Folha de Pagamento.exe.config
+C:\Users\douglas.vferreira\Documents\Visual Studio 2012\Projects\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\obj\Debug\Ex7_Folha de Pagamento.csprojResolveAssemblyReference.cache
+C:\Users\douglas.vferreira\Documents\Visual Studio 2012\Projects\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\bin\Debug\Ex7_Folha de Pagamento.exe
+C:\Users\douglas.vferreira\Documents\Visual Studio 2012\Projects\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\bin\Debug\Ex7_Folha de Pagamento.pdb
+C:\Users\douglas.vferreira\Documents\Visual Studio 2012\Projects\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\obj\Debug\Ex7_Folha de Pagamento.exe
+C:\Users\douglas.vferreira\Documents\Visual Studio 2012\Projects\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\obj\Debug\Ex7_Folha de Pagamento.pdb
+C:\Users\Wagner\Downloads\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\bin\Debug\Ex7_Folha de Pagamento.exe.config
+C:\Users\Wagner\Downloads\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\obj\Debug\Ex7_Folha de Pagamento.pdb
+C:\Users\Wagner\Downloads\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\Ex7_Folha de Pagamento\obj\Debug\Ex7_Folha de Pagamento.csprojResolveAssemblyReference.cache
